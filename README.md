@@ -5,6 +5,6 @@
 
   # joserodriguez233's Website
 
-  Visit **[joserodriguez233.github.io/theJARMlab](https://joserodriguez233.github.io/theJARMlab)** 🚀
+  Visit **[jarmlab.science](http://jarmlab.science)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
