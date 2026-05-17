@@ -1,1 +1,1 @@
-Sitemap: http://jarmlab.science/sitemap.xml
+Sitemap: https://jarmlab.science/sitemap.xml
