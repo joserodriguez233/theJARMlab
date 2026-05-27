@@ -1,9 +1,9 @@
 ---
 ---
 
-# joserodriguez233's Website
+# theJARMlab
 
-An engaging 1-3 sentence description of your lab.
+The Rodríguez-Martínez laboratory investigates how transcription factors read and interpret genetic information to regulate gene expression. We combine biophysical experiments, computational approaches, and disease-focused studies to understand how genetic variation alters these critical protein-DNA interactions and contributes to human disease.
 
 {% include section.html %}
 
