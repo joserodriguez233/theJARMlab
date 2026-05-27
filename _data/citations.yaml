@@ -1,209 +1,505 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.21203/rs.3.rs-8429365/v1
+  title: Global Evaluation of Congenital Heart Disease-Associated Non-Coding Variants
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - "Jos\xE9 Rodr\xEDguez-Mart\xEDnez"
+  - "Edwin Pe\xF1a-Mart\xEDnez"
+  - Shreya Sharma
+  - Joshua Medina-Feliciano
+  - Elise Root
+  - Lois Parks
+  - Marissa Granitto
+  - Diego Pomales-Matos
+  - Jean Messon- Bird
+  - Adriana Barreiro-Rosario
+  - Leandro Sanabria-Alberto
+  - Alejandro Rivera-Madera
+  - "Jessica Rodr\xEDguez-R\xEDos"
+  - "Rosalba Vel\xE1zquez-Roig"
+  - Juan Figueroa- Rosado
+  - Mackenzie Noon
+  - Omer Donmez
+  - Carmy Forney
+  - Hayley Hesse
+  - Katelyn Dunn
+  - Xiaoting Chen
+  - Matthew Hass
+  - Lucinda Lawson
+  - Matthew Weirauch
+  - Leah Kottyan
+  - Steven Reilly
+  - Devesh Bhimsaria
+  publisher: Springer Science and Business Media LLC
+  date: '2026-01-07'
+  link: https://doi.org/hb5qmg
+  orcid: 0000-0002-1191-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1093/g3journal/jkaf174
+  title: Congenital heart disease missense mutations in the TBX5 DNA-binding domain
+    alter thermal stability and DNA-binding affinity
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Alejandro Rivera-Madera
+  - "Edwin G Pe\xF1a-Mart\xEDnez"
+  - Jean L Messon-Bird
+  - Diego A Pomales-Matos
+  - "Oswaldo L Echevarr\xEDa-Bonilla"
+  - Leandro Sanabria-Alberto
+  - Esther A Peterson-Peguero
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  publisher: 'G3: Genes, Genomes, Genetics'
+  date: '2025-08-02'
+  link: https://doi.org/hb5qmh
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.05.16.654568
+  title: Congenital heart disease missense mutations in the TBX5 DNA-binding domain
+    alter thermal stability and DNA-binding affinity
+  authors:
+  - Alejandro Rivera-Madera
+  - "Edwin G. Pe\xF1a-Mart\xEDnez"
+  - Jean L. Messon-Bird
+  - Diego A. Pomales-Matos
+  - "Oswaldo L. Echevarr\xEDa-Bonilla"
+  - Leandro Sanabria-Alberto
+  - Esther A. Peterson-Peguero
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2025-05-19'
+  link: https://doi.org/hb5qmj
+  orcid: 0000-0002-1191-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1101/2024.09.19.613959
+  title: Cardiovascular Disease-Associated Non-Coding Variants Disrupt GATA4-DNA Binding
+    and Regulatory Functions
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
+  - "Edwin G. Pe\xF1a-Mart\xEDnez"
+  - Jean L. Messon-Bird
+  - "Jessica M. Rodr\xEDguez-R\xEDos"
+  - "Rosalba Vel\xE1zquez-Roig"
+  - Diego A. Pomales-Matos
+  - Alejandro Rivera-Madera
+  - Leandro Sanabria-Alberto
+  - Adriana C. Barreiro-Rosario
+  - Jeancarlos Rivera-Del Valle
+  - "Nicole E. Mu\xF1oz-P\xE1ez"
+  - Esther A. Peterson-Peguero
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: openRxiv
+  date: '2024-09-24'
+  link: https://doi.org/hb5qmk
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31083/j.fbs1601004
+  title: 'Decoding Non-coding Variants: Recent Approaches to Studying Their Role in
+    Gene Regulation and Human Diseases'
+  authors:
+  - "Edwin G. Pe\xF1a-Mart\xEDnez"
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: Frontiers in Bioscience-Scholar
+  date: '2024-03-01'
+  link: https://doi.org/g9rm43
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.09.01.23294951
+  title: Prioritizing Cardiovascular Disease-Associated Variants Altering NKX2-5 Binding
+    through an Integrative Computational Approach
+  authors:
+  - "Edwin G. Pe\xF1a-Mart\xEDnez"
+  - Diego A. Pomales-Matos
+  - Alejandro Rivera-Madera
+  - Jean L. Messon-Bird
+  - Joshua G. Medina-Feliciano
+  - Leandro Sanabria-Alberto
+  - Adriana C. Barreiro-Rosario
+  - Jessica M. Rodriguez-Rios
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: openRxiv
+  date: '2023-09-02'
+  link: https://doi.org/hb5qmm
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-39577-0
+  title: Hidden modes of DNA binding by human nuclear receptors
+  authors:
+  - Devesh Bhimsaria
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Jacqui L. Mendez-Johnson
+  - Debostuti Ghoshdastidar
+  - Ashwin Varadarajan
+  - Manju Bansal
+  - Danette L. Daniels
+  - Parameswaran Ramanathan
+  - Aseem Z. Ansari
+  publisher: Nature Communications
+  date: '2023-07-13'
+  link: https://doi.org/hb5qmn
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.11.14.516198
+  title: 'CREPE: A Shiny App for Transcription Factor Cataloguing'
+  authors:
+  - Diego A. Rosado-Tristani
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: openRxiv
+  date: '2022-11-16'
+  link: https://doi.org/hb5qmp
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbagrm.2023.194906
+  title: Disease-associated non-coding variants alter NKX2-5 DNA-binding affinity
+  authors:
+  - "Edwin G. Pe\xF1a-Mart\xEDnez"
+  - Alejandro Rivera-Madera
+  - Diego A. Pomales-Matos
+  - Leandro Sanabria-Alberto
+  - "Brittany M. Rosario-Ca\xF1uelas"
+  - "Jessica M. Rodr\xEDguez-R\xEDos"
+  - Emanuel A. Carrasquillo-Dones
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms
+  date: '2023-03-01'
+  link: https://doi.org/gs2mkg
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.276839.122
+  title: A butterfly pan-genome reveals that a large amount of structural variation
+    underlies the evolution of chromatin accessibility
+  authors:
+  - Angelo A. Ruggieri
+  - Luca Livraghi
+  - James J. Lewis
+  - Elizabeth Evans
+  - Francesco Cicconardi
+  - Laura Hebberecht
+  - Yadira Ortiz-Ruiz
+  - Stephen H. Montgomery
+  - Alfredo Ghezzi
+  - "Jos\xE9 Arcadio Rodriguez-Martinez"
+  - Chris D. Jiggins
+  - W. Owen McMillan
+  - Brian A. Counterman
+  - Riccardo Papa
+  - Steven M. Van Belleghem
+  publisher: Genome Research
+  date: '2022-09-15'
+  link: https://doi.org/hbkhx8
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.analchem.0c02886
+  title: A Laser-Activated Membrane Introduction Mass Spectrometry Study of Proton
+    Spillover Promoted Alkane Dehydrogenation
+  authors:
+  - Ryan Yongtae Kim
+  - Harry Rivera
+  - Sara E. Evarts
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Richard R. Willis
+  - Douglas B. Galloway
+  - Falaah Falih
+  - Michael J. McCall
+  - S. Jackson Smith
+  - Kyra Perz
+  - Eugene S. Smotkin
+  publisher: Analytical Chemistry
+  date: '2020-09-10'
+  link: https://doi.org/hb5qmq
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkz772
+  title: De novo design of programmable inducible promoters
+  authors:
+  - Xiangyang Liu
+  - Sanjan T P Gupta
+  - Devesh Bhimsaria
+  - Jennifer L Reed
+  - "Jos\xE9\_A Rodr\xEDguez-Mart\xEDnez"
+  - Aseem Z Ansari
+  - Srivatsan Raman
   publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  date: '2019-09-25'
+  link: https://doi.org/hb5qmr
+  orcid: 0000-0002-1191-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1093/nar/gky1057
+  title: Flexibility and structure of flanking DNA impact transcription factor affinity
+    for its core motif
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
+  - Venkata Rajesh Yella
+  - Devesh Bhimsaria
+  - Debostuti Ghoshdastidar
+  - "Jos\xE9\_A Rodr\xEDguez-Mart\xEDnez"
+  - Aseem Z Ansari
+  - Manju Bansal
   publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  date: '2018-11-05'
+  link: https://doi.org/hb5qms
+  orcid: 0000-0002-1191-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1073/pnas.1811431115
+  title: Specificity landscapes unmask submaximal binding site preferences of transcription
+    factors
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Devesh Bhimsaria
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Junkun Pan
+  - Daniel Roston
+  - Elif Nihal Korkmaz
+  - Qiang Cui
+  - Parameswaran Ramanathan
+  - Aseem Z. Ansari
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-10-19'
+  link: https://doi.org/gfnmj3
+  orcid: 0000-0002-1191-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1021/acsomega.7b01710
+  title: 'Aptamer-Based Impedimetric Assay of Arsenite in Water: Interfacial Properties
+    and Performance'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Karlene Vega-Figueroa
+  - "Jaime Santill\xE1n"
+  - "Valerie Ortiz-G\xF3mez"
+  - Edwin O. Ortiz-Quiles
+  - "Beatriz A. Qui\xF1ones-Col\xF3n"
+  - David A. Castilla-Casadiego
+  - "Jorge Almod\xF3var"
+  - Marvin J. Bayro
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Eduardo Nicolau
+  publisher: ACS Omega
+  date: '2018-02-02'
+  link: https://doi.org/gc5nbv
+  orcid: 0000-0002-1191-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.7554/eLife.19272
+  title: Combinatorial bZIP dimers display complex DNA-binding specificity landscapes
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  - Aaron W Reinke
+  - Devesh Bhimsaria
+  - Amy E Keating
+  - Aseem Z Ansari
+  publisher: eLife
+  date: '2017-02-10'
+  link: https://doi.org/gp2ftr
+  orcid: 0000-0002-1191-2887
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1073/pnas.1604847113
+  title: Synthetic genome readers target clustered binding sites across diverse chromatin
+    states
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Graham S. Erwin
+  - Matthew P. Grieshop
+  - Devesh Bhimsaria
+  - Truman J. Do
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Charu Mehta
+  - Kanika Khanna
+  - Scott A. Swanson
+  - Ron Stewart
+  - James A. Thomson
+  - Parameswaran Ramanathan
+  - Aseem Z. Ansari
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-11-08'
+  link: https://doi.org/f9fcfz
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3791/53510
+  title: Genome-wide Mapping of Drug-DNA Interactions in Cells with COSMIC (Crosslinking
+    of Small Molecules to Isolate Chromatin)
+  authors:
+  - Graham S. Erwin
+  - Matthew P. Grieshop
+  - Devesh Bhimsaria
+  - Asuka Eguchi
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Aseem Z. Ansari
+  publisher: Journal of Visualized Experiments
+  date: '2016-01-20'
+  link: https://doi.org/hb5qmt
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/sc400342x
+  title: Evaluation of a Urea Bioelectrochemical System for Wastewater Treatment Processes
+  authors:
+  - Eduardo Nicolau
+  - "Jos\xE9 J. Fonseca"
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Tra-My Justine Richardson
+  - Michael Flynn
+  - Kai Griebenow
+  - Carlos R. Cabrera
+  publisher: ACS Sustainable Chemistry &amp; Engineering
+  date: '2014-03-21'
+  link: https://doi.org/f5xrqv
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2012.04.003
+  title: 'Cooperativity in RNA-Protein Interactions: Global Analysis of RNA Binding
+    Specificity'
+  authors:
+  - "Zachary\_T. Campbell"
+  - Devesh Bhimsaria
+  - "Cary\_T. Valley"
+  - "Jose\_A. Rodriguez-Martinez"
+  - Elena Menichelli
+  - "James\_R. Williamson"
+  - Aseem Z. Ansari
+  - Marvin Wickens
+  publisher: Cell Reports
+  date: '2012-05-01'
+  link: https://doi.org/f375qr
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.rinphs.2012.11.001
+  title: "Two-step nanoprecipitation for\_the production of protein-loaded PLGA nanospheres"
+  authors:
+  - Moraima Morales-Cruz
+  - "Giselle M. Flores-Fern\xE1ndez"
+  - Myreisa Morales-Cruz
+  - Elsie A. Orellano
+  - "Jos\xE9 A. Rodriguez-Martinez"
+  - Mercedes Ruiz
+  - Kai Griebenow
+  publisher: Results in Pharma Sciences
+  date: '2012-01-01'
+  link: https://doi.org/hb5qmv
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jelechem.2011.09.011
+  title: Enhanced stability of a nanostructured cytochrome c biosensor by PEGylation
+  authors:
+  - "Lenibel Santiago-Rodr\xEDguez"
+  - "Jessica M\xE9ndez"
+  - Giselle M. Flores-Fernandez
+  - "Miraida Pag\xE1n"
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Carlos R. Cabrera
+  - Kai Griebenow
+  publisher: Journal of Electroanalytical Chemistry
+  date: '2011-12-01'
+  link: https://doi.org/bm6djj
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.2042-7158.2011.01288.x
+  title: Prevention of benzyl alcohol-induced aggregation of chymotrypsinogen by PEGylation
+  authors:
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  - Izarys Rivera-Rivera
+  - Kai Griebenow
+  publisher: Journal of Pharmacy and Pharmacology
+  date: '2011-06-01'
+  link: https://doi.org/bgw8mk
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.201000255
+  title: Nucleating the Assembly of Macromolecular Complexes
+  authors:
+  - "Kimberly J. Peterson\u2010Kaufman"
+  - Clayton D. Carlson
+  - "Jos\xE9 A. Rodr\xEDguez\u2010Mart\xEDnez"
+  - Aseem Z. Ansari
+  publisher: ChemBioChem
+  date: '2010-09-01'
+  link: https://doi.org/cpfskq
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbagrm.2010.08.010
+  title: Small-molecule regulators that mimic transcription factors
+  authors:
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Kimberly J. Peterson-Kaufman
+  - Aseem Z. Ansari
+  publisher: Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms
+  date: '2010-10-01'
+  link: https://doi.org/crvz4m
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10529-009-9947-y
+  title: "Enzymatic activity and thermal stability of PEG-\u03B1-chymotrypsin conjugates"
+  authors:
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  - Izarys Rivera-Rivera
+  - "Ricardo J. Sol\xE1"
+  - Kai Griebenow
+  publisher: Biotechnology Letters
+  date: '2009-02-18'
+  link: https://doi.org/b2zsw8
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/bit.22014
+  title: "Stabilization of \u03B1\u2010chymotrypsin upon PEGylation correlates with\
+    \ reduced structural dynamics"
+  authors:
+  - "Jos\xE9 A. Rodr\xEDguez\u2010Mart\xEDnez"
+  - "Ricardo J. Sol\xE1"
+  - Betzaida Castillo
+  - "H\xE9ctor R. Cintr\xF3n\u2010Col\xF3n"
+  - "Izarys Rivera\u2010Rivera"
+  - Gabriel Barletta
+  - Kai Griebenow
+  publisher: Biotechnology and Bioengineering
+  date: '2008-09-09'
+  link: https://doi.org/d5v6xh
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00018-007-6551-y
+  title: 'Modulation of protein biophysical properties by chemical glycosylation:
+    biochemical insights and biomedical implications'
+  authors:
+  - "R. J. Sol\xE1"
+  - "J. A. Rodr\xEDguez-Mart\xEDnez"
+  - K. Griebenow
+  publisher: Cellular and Molecular Life Sciences
+  date: '2007-06-11'
+  link: https://doi.org/crtvsw
+  orcid: 0000-0002-1191-2887
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0169-4332(03)00921-8
+  title: High speed laser activated membrane introduction mass spectrometric evaluation
+    of bulk methylcyclohexane dehydrogenation catalysts
+  authors:
+  - Amit Nayar
+  - Yong Tae Kim
+  - Jose Rodriguez
+  - Richard Willis
+  - Douglas B. Galloway
+  - Falaah Falih
+  - Eugene S. Smotkin
+  publisher: Applied Surface Science
+  date: '2004-02-01'
+  link: https://doi.org/cw3xdr
+  orcid: 0000-0002-1191-2887
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +515,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +531,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
