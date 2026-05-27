@@ -1,72 +1,181 @@
-- title: "Global Evaluation of Congenital Heart Disease-Associated Non-Coding Variants"
-  authors: "Peña-Martínez EGG, Sharma SG, Medina-Feliciano JGG, Root E, Parks LG, Granitto M, Pomales-Matos DAU, Messon-Bird JLU, Barreiro-Rosario ACU, Sanabria-Alberto LU, Rivera-Madera AU, Rodríguez-Ríos JMG, Velázquez-Roig RG, Figueroa-Rosado JA, Noon M, Donmez OA, Forney C, Hesse HK, Dunn KA, Chen X, Hass M, Lawson L, Weirauch MT, Kottyan L, Reilly SK, Bhimsaria D, Rodríguez-Martínez JA"
-  journal: "bioRxiv"
-  date: 2025-12-05
-  doi: "10.64898/2025.12.02.691900"
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- title: "Congenital heart disease missense mutations in the TBX5 DNA-binding domain alter thermal stability and DNA-binding affinity"
-  authors: "Rivera-Madera AU, Peña-Martínez EG, Messon-Bird JLU, Pomales-Matos DAU, Echevarría-Bonilla OL, Sanabria-Alberto LU, Peterson-Peguero EA, Rodríguez-Martínez JA"
-  journal: "G3 (Bethesda)"
-  date: 2025-10-08
-  pmid: "40751491"
-  doi: "10.1093/g3journal/jkaf174"
-
-- title: "Protocol for evaluating the impact of non-coding variants on transcription factor binding and gene expression"
-  authors: "Peña-Martínez EG, Rodríguez-Ríos JM, Messon-Bird JL, Barreiro-Rosario AC, Velázquez-Roig R, Rivera-Madera A, Peterson-Peguero EA, Rodríguez-Martínez JA"
-  journal: "STAR Protoc"
-  date: 2025-06-04
-  pmid: "40478739"
-  doi: "10.1016/j.xpro.2025.103874"
-
-- title: "Cardiovascular disease-associated non-coding variants disrupt GATA4-DNA binding and regulatory functions"
-  authors: "Peña-Martínez EG, Messon-Bird JLU, Rodríguez-Ríos JM, Velázquez-Roig R, Pomales-Matos DAU, Rivera-Madera AU, Sanabria-Alberto LU, Barreiro-Rosario ACU, Figueroa-Rosado JA, Rivera-Del Valle JU, Muñoz-Páez NEU, Peterson-Peguero EA, Rodríguez-Martínez JA"
-  journal: "HGG Adv"
-  date: 2025-04-10
-  pmid: "39943688"
-  pmcid: "PMC11930153"
-  doi: "10.1016/j.xhgg.2025.100415"
-
-- title: "Selection, characterization, and biosensing applications of DNA aptamers targeting cyanotoxin BMAA"
-  authors: "Santiago-Maldonado X, Rodríguez-Martínez JA, López L, Cunci L, Bayro M, Nicolau E"
-  journal: "RSC Adv"
-  date: 2024-04-25
-  pmid: "38681844"
-  pmcid: "PMC11046380"
-  doi: "10.1039/d4ra02384f"
-
-- title: "Decoding Non-coding Variants: Recent Approaches to Studying Their Role in Gene Regulation and Human Diseases"
-  authors: "Peña-Martínez EG, Rodríguez-Martínez JA"
-  journal: "Front Biosci (Schol Ed)"
-  date: 2024-03-01
-  pmid: "38538340"
-  doi: "10.31083/j.fbs1601004"
-
-- title: "Prioritizing cardiovascular disease-associated variants altering NKX2-5 and TBX5 binding through an integrative computational approach"
-  authors: "Peña-Martínez EG, Pomales-Matos DAU, Rivera-Madera AU, Messon-Bird JLU, Medina-Feliciano JG, Sanabria-Alberto LU, Barreiro-Rosario ACU, Rivera-Del Valle JU, Rodríguez-Ríos JM, Rodríguez-Martínez JA"
-  journal: "J Biol Chem"
-  date: 2023-12-01
-  pmid: "37926287"
-  pmcid: "PMC10750078"
-  doi: "10.1016/j.jbc.2023.105423"
-
-- title: "Hidden modes of DNA binding by human nuclear receptors"
-  authors: "Bhimsaria D, Rodríguez-Martínez JA, Mendez-Johnson JL, Ghoshdastidar D, Varadarajan A, Bansal M, Daniels DL, Ramanathan P, Ansari AZ"
-  journal: "Nat Commun"
-  date: 2023-07-13
-  pmid: "37443151"
-  pmcid: "PMC10345098"
-  doi: "10.1038/s41467-023-39577-0"
-
-- title: "CREPE: A Shiny App for Transcription Factor Cataloguing"
-  authors: "Rosado-Tristani DA, Rodríguez-Martínez JA"
-  journal: "Bioinformatics Advances"
-  date: 2023-05-01
-  doi: "10.1093/bioadv/vbad055"
-
-- title: "Disease-associated non-coding variants alter NKX2-5 DNA-binding affinity"
-  authors: "Peña-Martínez EG, Rivera-Madera UA, Pomales-Matos DAU, Sanabria-Alberto LU, Rosario-Cañuelas BM, Rodríguez-Ríos JM, Carrasquillo-Dones EA, Rodríguez-Martínez JA"
-  journal: "Biochim Biophys Acta Gene Regul Mech"
-  date: 2023-03-01
-  pmid: "36690178"
-  pmcid: "PMC10013089"
-  doi: "10.1016/j.bbagrm.2023.194906"
+- id: doi:10.64898/2025.12.02.691900
+  title: Global Evaluation of Congenital Heart Disease-Associated Non-Coding Variants
+  authors:
+  - "Edwin G. Pe\xF1a-Mart\xEDnez"
+  - Shreya Sharma
+  - Joshua G. Medina-Feliciano
+  - Elise Root
+  - Lois G. Parks
+  - Marissa Granitto
+  - Diego A. Pomales-Matos
+  - Jean L. Messon-Bird
+  - Adriana C. Barreiro-Rosario
+  - Leandro Sanabria-Alberto
+  - Alejandro Rivera-Madera
+  - "Jessica M. Rodr\xEDguez-R\xEDos"
+  - "Rosalba Vel\xE1zquez-Roig"
+  - Juan A. Figueroa-Rosado
+  - Mackenzie Noon
+  - Omer A. Donmez
+  - Carmy Forney
+  - Hayley K. Hesse
+  - Katelyn A. Dunn
+  - Xiaoting Chen
+  - Matthew R. Hass
+  - Lucinda P. Lawson
+  - Matthew T. Weirauch
+  - Leah C. Kottyan
+  - Steven K. Reilly
+  - Devesh Bhimsaria
+  - "Jos\xE9 A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: openRxiv
+  date: '2025-12-05'
+  link: https://doi.org/hb5qrk
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40751491
+  title: Congenital heart disease missense mutations in the TBX5 DNA-binding domain
+    alter thermal stability and DNA-binding affinity.
+  authors:
+  - Alejandro Rivera-Madera
+  - "Edwin G Pe\xF1a-Mart\xEDnez"
+  - Jean L Messon-Bird
+  - Diego A Pomales-Matos
+  - "Oswaldo L Echevarr\xEDa-Bonilla"
+  - Leandro Sanabria-Alberto
+  - Esther A Peterson-Peguero
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  publisher: G3 (Bethesda, Md.)
+  date: '2025-10-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40751491
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40478739
+  title: Protocol for evaluating the impact of non-coding variants on transcription
+    factor binding and gene expression.
+  authors:
+  - "Edwin G Pe\xF1a-Mart\xEDnez"
+  - "Jessica M Rodr\xEDguez-R\xEDos"
+  - Jean L Messon-Bird
+  - Adriana C Barreiro-Rosario
+  - "Rosalba Vel\xE1zquez-Roig"
+  - Alejandro Rivera-Madera
+  - Esther A Peterson-Peguero
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  publisher: STAR protocols
+  date: '2025-06-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40478739
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39943688
+  title: Cardiovascular disease-associated non-coding variants disrupt GATA4-DNA binding
+    and regulatory functions.
+  authors:
+  - "Edwin G Pe\xF1a-Mart\xEDnez"
+  - Jean L Messon-Bird
+  - "Jessica M Rodr\xEDguez-R\xEDos"
+  - "Rosalba Vel\xE1zquez-Roig"
+  - Diego A Pomales-Matos
+  - Alejandro Rivera-Madera
+  - Leandro Sanabria-Alberto
+  - Adriana C Barreiro-Rosario
+  - Juan A Figueroa-Rosado
+  - Jeancarlos Rivera-Del Valle
+  - "Nicole E Mu\xF1oz-P\xE1ez"
+  - Esther A Peterson-Peguero
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  publisher: HGG advances
+  date: '2025-02-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39943688
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38681844
+  title: Selection, characterization, and biosensing applications of DNA aptamers
+    targeting cyanotoxin BMAA.
+  authors:
+  - Xaimara Santiago-Maldonado
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  - "Luis L\xF3pez"
+  - Lisandro Cunci
+  - Marvin Bayro
+  - Eduardo Nicolau
+  publisher: RSC advances
+  date: '2024-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38681844
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38538340
+  title: 'Decoding Non-coding Variants: Recent Approaches to Studying Their Role in
+    Gene Regulation and Human Diseases.'
+  authors:
+  - "Edwin G Pe\xF1a-Mart\xEDnez"
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  publisher: Frontiers in bioscience (Scholar edition)
+  date: '2024-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38538340
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37926287
+  title: Prioritizing cardiovascular disease-associated variants altering NKX2-5 and
+    TBX5 binding through an integrative computational approach.
+  authors:
+  - "Edwin G Pe\xF1a-Mart\xEDnez"
+  - Diego A Pomales-Matos
+  - Alejandro Rivera-Madera
+  - Jean L Messon-Bird
+  - Joshua G Medina-Feliciano
+  - Leandro Sanabria-Alberto
+  - Adriana C Barreiro-Rosario
+  - Jeancarlos Rivera-Del Valle
+  - "Jessica M Rodr\xEDguez-R\xEDos"
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  publisher: The Journal of biological chemistry
+  date: '2023-11-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37926287
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37443151
+  title: Hidden modes of DNA binding by human nuclear receptors.
+  authors:
+  - Devesh Bhimsaria
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  - Jacqui L Mendez-Johnson
+  - Debostuti Ghoshdastidar
+  - Ashwin Varadarajan
+  - Manju Bansal
+  - Danette L Daniels
+  - Parameswaran Ramanathan
+  - Aseem Z Ansari
+  publisher: Nature communications
+  date: '2023-07-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37443151
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioadv/vbad055
+  title: 'CREPE: a Shiny app for transcription factor cataloguing'
+  authors:
+  - Diego A Rosado-Tristani
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  publisher: Bioinformatics Advances
+  date: '2023-01-01'
+  link: https://doi.org/hb5qrm
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36690178
+  title: Disease-associated non-coding variants alter NKX2-5 DNA-binding affinity.
+  authors:
+  - "Edwin G Pe\xF1a-Mart\xEDnez"
+  - Alejandro Rivera-Madera
+  - Diego A Pomales-Matos
+  - Leandro Sanabria-Alberto
+  - "Brittany M Rosario-Ca\xF1uelas"
+  - "Jessica M Rodr\xEDguez-R\xEDos"
+  - Emanuel A Carrasquillo-Dones
+  - "Jos\xE9 A Rodr\xEDguez-Mart\xEDnez"
+  publisher: Biochimica et biophysica acta. Gene regulatory mechanisms
+  date: '2023-01-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36690178
+  plugin: sources.py
+  file: sources.yaml
