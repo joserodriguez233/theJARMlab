@@ -10,9 +10,6 @@ Here is a collection of our published work, pre-prints, and collaborative resear
 
 {% include section.html %}
 
-{% capture search_controls %}
-  {% include search-box.html id="search" placeholder="Search publications..." %}
-{% endcapture %}
-{% include controls-block.html left=search_controls %}
+{% include search-box.html id="search" placeholder="Search publications..." %}
 
 {% include list.html data="citations" component="citation" search_id="search" %}
