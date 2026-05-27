@@ -1,7 +1,7 @@
 ---
 name: José A. Rodríguez-Martínez
-image: images/team/jose-rodriguez.jpg
-role: principal-investigator
+image: images/team/jose-rodriguez_2024.jpg
+role: Principal Investigator
 affiliation: University of Puerto Rico Río Piedras
 aliases:
   - J. Smith
