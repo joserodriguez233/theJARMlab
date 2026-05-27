@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: José A. Rodríguez-Martínez
+image: images/team/jose-rodriguez.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: University of Puerto Rico Río Piedras
 aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://scholar.google.com/citations?user=4FhWcbsAAAAJ&hl=en
+  orcid: 0000-0002-1191-2887
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+
