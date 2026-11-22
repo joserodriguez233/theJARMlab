@@ -11,7 +11,7 @@ The Rodríguez-Martínez laboratory investigates how transcription factors read 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use high-throughput biochemical and computational approaches to study how transcription factors recognize DNA sequences across the genome, and how non-coding genetic variants disrupt these interactions to cause cardiovascular and other human diseases. Our work integrates SELEX, EMSA, massively parallel reporter assays (MPRA), and machine-learning models to decode the regulatory logic hidden in the non-coding genome.
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/jarm-lab-main.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects span from the development of high-throughput methods — including SNP Bind-n-Seq and MPRA screening — to computational tools such as GKM-SVM models and the CREPE R Shiny app for prioritizing disease-associated genetic variants. We work at the intersection of biophysics, genomics, and cardiovascular disease.
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/jarm-lab-main.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a diverse, interdisciplinary team of undergraduate and graduate students at the University of Puerto Rico Río Piedras. We are committed to training the next generation of Puerto Rican scientists and to doing rigorous, impactful, and inclusive science.
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/jarm-lab-main.jpg"
   link="team"
   title="Our Team"
   text=text
