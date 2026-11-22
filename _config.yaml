@@ -1,10 +1,11 @@
 # site properties and page defaults
 title: JARMlab
 subtitle: Rodríguez-Martínez lab at the University of Puerto Rico Río Piedras
-description: Lab website under construction. Hope to see you again.
+description: We study how transcription factors read the genome and how non-coding genetic variants disrupt that reading to cause cardiovascular disease. Using biochemistry, high-throughput sequencing, and machine learning, we decode the regulatory logic of the cardiac genome.
 header: images/jarm-lab-main.jpg
 footer: images/jarm-lab-main.jpg
 proofer: false
+
 
 # site social media and other links
 links:
@@ -15,7 +16,9 @@ links:
   twitter: josarc
   youtube: joserodriguez233
 
+
 ### jekyll settings
+
 
 # front matter defaults
 defaults:
@@ -34,40 +37,3 @@ defaults:
       type: "posts"
     values:
       layout: post
-
-collections:
-  # generate page for each member
-  members:
-    output: true
-  # generate page for each post
-  posts:
-    output: true
-
-# jekyll plugins
-plugins:
-  - jekyll-spaceship
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-last-modified-at
-
-# code block syntax highlighting
-highlighter: rouge
-
-# jekyll theme
-theme: null
-
-# sass settings
-sass:
-  sass_dir: _styles
-
-# force jekyll to include certain files/folders
-include:
-  - _styles
-  - _scripts
-
-# force jekyll to exclude certain files/folders
-exclude:
-  - README.md
-  - LICENSE.md
-  - CITATION.cff
