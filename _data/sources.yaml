@@ -1,0 +1,35 @@
+# Publication sources for the JARMlab citation bot.
+# This file tells the automated citation workflow which papers to fetch.
+# DO NOT put entries in citations.yaml directly — that file is auto-generated.
+
+- id: doi:10.21203/rs.3.rs-8429365/v1
+
+- id: doi:10.1093/g3journal/jkaf174
+
+- id: doi:10.1016/j.xpro.2025.103874
+
+- id: doi:10.1016/j.xhgg.2025.100415
+
+- id: doi:10.31083/j.fbs1601004
+
+- id: doi:10.1016/j.jbc.2023.105423
+
+- id: doi:10.1093/bioadv/vbad055
+
+- id: doi:10.1016/j.bbagrm.2023.194906
+
+- id: doi:10.1038/s41467-023-39577-0
+
+- id: doi:10.1101/gr.276839.122
+
+- id: doi:10.1093/nar/gkz772
+
+- id: doi:10.1073/pnas.1811431115
+
+- id: doi:10.1093/nar/gky1057
+
+- id: doi:10.7554/eLife.19272
+
+- id: doi:10.3791/53510
+
+- id: doi:10.1016/j.bbagrm.2010.08.010
