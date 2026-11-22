@@ -1,47 +1,58 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: SNP Bind-n-Seq
+  subtitle: Quantifying TF-DNA binding affinities at non-coding variants
+  image: images/projects/snp-bind-n-seq.jpg
+  link: https://github.com/joserodriguez233/theJARMlab
+  description: >
+    An in vitro SELEX-based platform (Bind-n-Seq) for measuring how single nucleotide polymorphisms (SNPs)
+    alter the DNA binding affinity of transcription factors. Used to systematically evaluate non-coding
+    variants associated with congenital heart disease and interpret GWAS signals at cardiac TF binding sites.
   tags:
-    - resource
+    - SELEX
+    - TF binding
+    - non-coding variants
+    - cardiac genomics
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: GKM-SVM for TF Binding
+  subtitle: Gapped k-mer support vector machine for predicting TF binding sites
+  image: images/projects/gkm-svm.jpg
+  link: https://github.com/joserodriguez233/theJARMlab
+  description: >
+    Application and extension of the GKM-SVM machine learning framework to predict transcription factor
+    binding sites from sequence alone. Enables genome-wide scoring of regulatory variants and integration
+    with GWAS data to prioritize functionally relevant non-coding SNPs in cardiovascular disease loci.
   tags:
-    - resource
+    - machine learning
+    - sequence motifs
+    - regulatory genomics
+    - GKM-SVM
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: CREPE
+  subtitle: Comprehensive Regulatory Element Prediction Engine
+  image: images/projects/crepe.jpg
+  link: https://github.com/joserodriguez233/theJARMlab
+  description: >
+    A computational pipeline integrating high-throughput sequencing data, TF binding models, and functional
+    genomics annotations to predict and prioritize regulatory elements. Designed for use with MPRA
+    (Massively Parallel Reporter Assay) data to link sequence variants to transcriptional activity in
+    cardiac cell types.
   tags:
-    - resource
-    - publication
+    - regulatory elements
+    - MPRA
+    - bioinformatics pipeline
+    - functional genomics
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: NKX2-5 / TBX5 Biophysics
+  subtitle: Structural and thermodynamic dissection of cardiac TF-DNA interactions
+  image: images/projects/nkx-tbx.jpg
+  link: https://github.com/joserodriguez233/theJARMlab
+  description: >
+    Combining EMSA, fluorescence anisotropy, and footprinting assays with molecular modeling to characterize
+    how NKX2-5, TBX5, and GATA4 bind their DNA targets individually and cooperatively. Structural insights
+    inform how disease-associated mutations alter DNA recognition and regulatory network connectivity in
+    the developing heart.
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - NKX2-5
+    - TBX5
+    - GATA4
+    - biophysics
+    - congenital heart disease
