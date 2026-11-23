@@ -1,1 +1,1 @@
-Sitemap: https://jarmlab.science/sitemap.xml
+Sitemap: https://joserodriguez233.github.io/theJARMlab/sitemap.xml
